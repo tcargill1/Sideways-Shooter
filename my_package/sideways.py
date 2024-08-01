@@ -21,7 +21,7 @@ from .sound import Sound
 import logging
 
 class Sideways:
-    """Class to manage sideways shooter game."""
+    """Class to manage sideways shooter game"""
 
     def __init__(self):
         """Initialize the game and create game resources."""
