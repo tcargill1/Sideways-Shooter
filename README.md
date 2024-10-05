@@ -2,14 +2,13 @@
 
 ## Overview
 
-This is a 2D sideways shooter game developed using Python and the Pygame module. The game challenges players to navigate through a dynamic environment filled with enemy obstacles while collecting power-ups and increasing their score. The goal is to achieve the highest score possible while avoiding enemies and projectiles.
+This is a 2D sideways shooter game developed using Python and the Pygame module. The game challenges players to navigate through a dynamic environment filled with enemy obstacles while increasing their score. The goal is to achieve the highest score possible while shooting down the enemies.
 
 ## Features
 
 - **Dynamic Gameplay**: Navigate your character through a side-scrolling environment while shooting at incoming enemies.
-- **Power-Ups**: Collect power-ups to enhance your shooting abilities or gain temporary invincibility.
 - **Scoring System**: Keep track of your score and try to beat your high score.
-- **Challenging Levels**: Enemies increase in difficulty as the game progresses.
+- **Challenging Levels**: There are three difficulty levels to choose from!
 
 ## Technologies Used
 
